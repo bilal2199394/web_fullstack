@@ -31,3 +31,15 @@ header{
     flex-direction: row;
     gap: 100vh;
 }
+.mainlogg{
+     color: white;
+    background-color: rgb(5, 17, 58);
+    height: 60vh;
+    font-size: xx-large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: large;
+   
+}
