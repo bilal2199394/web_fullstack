@@ -17,7 +17,8 @@ header{
     justify-content: center;
     align-items: center;
     flex-direction: row; 
-    gap: 20vh;
+    gap: 50vh;
+
 }
 .footerindex{
     color: rgb(0, 0, 0);
