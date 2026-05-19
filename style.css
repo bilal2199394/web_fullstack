@@ -16,8 +16,10 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: row; 
+    flex-direction: row;
     gap: 50vh;
+   
+    
 
 }
 .footerindex{
