@@ -18,7 +18,7 @@ header{
     align-items: center;
     flex-direction: row;
     gap: 50vh;
-   
+
     
 
 }
@@ -43,5 +43,6 @@ header{
     justify-content: center;
     flex-direction: column;
     font-size: large;
+
    
 }
